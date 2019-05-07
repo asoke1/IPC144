@@ -1,0 +1,15 @@
+Name: Abiodun Oke
+Sudent ID: 117180166
+
+1)	What is the advantage of passing values from a function through its parameters rather than through its return value? 
+
+Because we can modify more than one value in a single function
+
+2)	Explain the meaning of the term dereference and identify an example in your code.
+
+Dereference is getting the value that is stored in the memory location pointed by the pointer
+Example
+decompose(phoneNumber[j], &area, &prefix, &lineNum);
+printf("(%3d)-%3d-%4d", area, prefix, lineNum);
+
+3)	Explain what is stored in a pointer variable  

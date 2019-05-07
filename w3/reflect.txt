@@ -1,0 +1,12 @@
+Name: Abiodun Oke
+StId: 117180166
+Workshop: 3
+
+
+1, while, do loop, and for loop.
+
+2 while will check the condition first before executing, if it true it execute and if not it will not run.
+
+ Do while will run at least once then check the condition and continue to run until the condition is false.
+
+3. Is the shothand alternative for if statement.

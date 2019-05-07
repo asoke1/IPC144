@@ -1,0 +1,12 @@
+Name: Abiodun Oke
+
+
+
+1,
+an array of structs holds many objects of struct type, while parallal array 
+contain information of a specific type
+advantage struct array it helps to call all type of information from one 
+place which parallel array hold only one type of information.
+
+2,
+Its to be reuse by othe programme files

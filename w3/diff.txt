@@ -1,0 +1,10 @@
+
+In line number 22 of your output:
+The output should be:
+The lowest temperature was -4, on day 2
+But your output is: 
+The lowest temperature was -4, on day 2 
+                                       ^
+---------------------------------------|
+Professor's character ASCII code: hex(d), dec(13)
+un-matched character ASCII code: hex(20), dec(32)

@@ -1,0 +1,7 @@
+Name: Abiodun Oke
+
+
+
+I learn the mathimatics expressions.
+how to use printf to displace more that one variable on a line.
+

@@ -1,0 +1,10 @@
+
+In line number 32 of your output:
+The output should be:
+Title:Harry Potter
+But your output is: 
+Title:Harry Poter
+               ^
+---------------|
+Professor's character ASCII code: hex(74), dec(116)
+un-matched character ASCII code: hex(65), dec(101)

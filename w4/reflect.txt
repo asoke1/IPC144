@@ -1,0 +1,17 @@
+Name: Abiodun Oke
+
+
+
+
+
+
+
+1)	Why do the arrays in this program have to be declared to hold 10 elements?
+    Because the program required to have minimum of 3 and maximum of 10 days
+
+2)	What are the advantages and disadvantages of using matching arrays?
+    
+
+3)	Was the at home portion of this workshop too easy, just right or too hard? Why? 
+    To hard and tricky. Why? because of typecasting, i found it dificult to fiqueout out my error
+    because i decleared by the sum variable as int when it should have been double.

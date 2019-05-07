@@ -1,0 +1,10 @@
+Name: Abiodun Oke
+
+1) When passing an array to a function is it "by address" or "by value" - explain. by address because the array holds many values
+
+
+2) Explain why functions with an array parameter are usually complemented with an additional integer parameter (reference specifics in this workshop to explain your answer).
+ 
+3) Why do some of the functions in this workshop specify "const" for the array parameters and not in others?
+
+To prevent other from changing the variable

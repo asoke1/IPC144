@@ -1,0 +1,10 @@
+
+In line number 35 of your output:
+The output should be:
+1. Display Phone List
+But your output is: 
+
+^
+|
+Professor's character ASCII code: hex(31), dec(49)
+un-matched character ASCII code: hex(d), dec(13)

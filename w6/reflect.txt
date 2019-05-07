@@ -1,0 +1,14 @@
+Name: Abiodun Oke
+
+1)What is a function and briefly discuss the need for functions in any 
+language? 
+Function is a group of statement that perform a task together.
+
+2)	Comment on the modularity and reusability of addPositive and 
+subtractPositive functions. (Hint: Each function was called twice for 
+different purposes each time)
+
+3)	How do you send and receive data back to and from functions? 
+
+You send and receive data by using the function identifier name and 
+parameters. example addPositive(a, b)

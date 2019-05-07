@@ -1,0 +1,10 @@
+
+In line number 3 of your output:
+The output should be:
+totalAfterTax:
+But your output is: 
+asoke@matrix:~/ipc144/ms2> a.o[7Pvi 144_ms2.c
+^
+|
+Professor's character ASCII code: hex(74), dec(116)
+un-matched character ASCII code: hex(61), dec(97)

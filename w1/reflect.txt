@@ -1,0 +1,8 @@
+reflect on workshop1
+Name: Abiodun Oke
+
+
+I learnt how to write my code on visual studio and use filzilla to transfer the file to my 
+matrix account. 
+I learn how to also write my code on matrix
+i learn how to compile and submit my workshop.

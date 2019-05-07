@@ -1,0 +1,134 @@
+Script started on Wed 08 Mar 2017 09:27:56 PM EST
+asoke@matrix:~/ipc144/w6> ws
+***** Rental Vehicle Management App *****
+
+1.) Rental Status
+2.) Apply Charges
+3.) Apply Taxes to All Rentals
+4.) Apply Gift Card
+0.) Log out
+
+Please enter an option to continue: 2
+
+-- Rental Charges --
+
+Enter vehicle ID: 123
+Enter Rental Period (in Days): 2
+Enter kilometers driven: 125
+Apply Discount: Y
+
+Base   kmCost DiscStatus Total
+====== ====== ========== ======
+ 19.90  81.25          Y  96.15
+
+1.) Rental Status
+2.) Apply Charges
+3.) Apply Taxes to All Rentals
+4.) Apply Gift Card
+0.) Log out
+
+Please enter an option to continue: 2
+
+-- Rental Charges --
+
+Enter vehicle ID: 124
+Enter Rental Period (in Days): 3
+Enter kilometers driven: 60
+Apply Discount: N
+
+Base   kmCost DiscStatus Total
+====== ====== ========== ======
+ 59.85  41.40          N 101.25
+
+1.) Rental Status
+2.) Apply Charges
+3.) Apply Taxes to All Rentals
+4.) Apply Gift Card
+0.) Log out
+
+Please enter an option to continue: 2
+
+-- Rental Charges --
+
+Enter vehicle ID: 125
+Enter Rental Period (in Days): 1
+Enter kilometers driven: 223
+Apply Discount: Y
+
+Base   kmCost DiscStatus Total
+====== ====== ========== ======
+ 29.95 129.27          Y 154.22
+
+1.) Rental Status
+2.) Apply Charges
+3.) Apply Taxes to All Rentals
+4.) Apply Gift Card
+0.) Log out
+
+Please enter an option to continue: 1
+
+-- Rental Vehicle Status --
+
+ID#      Earnings
+-------- ----------
+     123      96.15
+     124     101.25
+     125     154.22
+
+1.) Rental Status
+2.) Apply Charges
+3.) Apply Taxes to All Rentals
+4.) Apply Gift Card
+0.) Log out
+
+Please enter an option to continue: 3
+
+-- Apply Taxes To all Accounts--
+
+ID#      Earnings   Taxes
+-------- ---------- ------
+     123     109.61  13.46
+     124     115.42  14.18
+     125     175.81  21.59
+
+1.) Rental Status
+2.) Apply Charges
+3.) Apply Taxes to All Rentals
+4.) Apply Gift Card
+0.) Log out
+
+Please enter an option to continue: 4
+
+-- Apply Gift Card --
+
+Enter vehicle ID: 125
+Enter Gift Card Amount: 23
+Discount Applied
+
+1.) Rental Status
+2.) Apply Charges
+3.) Apply Taxes to All Rentals
+4.) Apply Gift Card
+0.) Log out
+
+Please enter an option to continue: 1
+
+-- Rental Vehicle Status --
+
+ID#      Earnings
+-------- ----------
+     123     109.61
+     124     115.42
+     125     152.81
+
+1.) Rental Status
+2.) Apply Charges
+3.) Apply Taxes to All Rentals
+4.) Apply Gift Card
+0.) Log out
+
+Please enter an option to continue: 0
+asoke@matrix:~/ipc144/w6> exit
+exit
+
+Script done on Wed 08 Mar 2017 09:30:46 PM EST
